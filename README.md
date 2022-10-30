@@ -6,3 +6,5 @@ NDOS data is first used in our paper：
 Novel-Domain Object Segmentation(NDOS) data set that contains 330 oil spill images for industrial oil leak detection. The dataset contains 130 annotated images and 200 unlabelled images. Annotated images were divided into a training set of 30 images and a test set of 100 images. 
 
 This dataset provides a new benchmark for testing novel-domain semantic segmentation algorithms.
+
+You can read labels\ .csv files to divide the training and validation sets.
