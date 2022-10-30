@@ -7,4 +7,4 @@ Novel-Domain Object Segmentation(NDOS) data set that contains 330 oil spill imag
 
 This dataset provides a new benchmark for testing novel-domain semantic segmentation algorithms.
 
-You can use labels\ .csv files to divide the training data set and validation data set.
+You can use labels/ .csv files to divide the training data set and validation data set.
